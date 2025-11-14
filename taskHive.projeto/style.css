@@ -1,6 +1,6 @@
 /* style.css - seu CSS adaptado e com a "caixa branca" */
 body {
-  background-image: url("imagens/Favo de mel com desenho de abelha voadora em ilustração vetorial de fundo branco conjunto com abelhas e mel _ Vetor Premium.jpg");
+  background-image: url(imagens/photo_2025-11-14_13-56-41.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -177,3 +177,4 @@ li button:hover {
   .container { width: 92vw; padding: 16px; }
   li img { width: 34px; height: 34px; }
 }
+
